@@ -1,0 +1,254 @@
+fileFormatVersion: 2
+guid: f4117664cd6ef5a49b3a5d6d4243a07e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: _1
+    100002: _1 1
+    100004: base
+    100006: circle
+    100008: curve
+    100010: g
+    100012: g 1
+    100014: l
+    100016: l 1
+    100018: logo
+    100020: logo 1
+    100022: logoback
+    100024: logofront
+    100026: main
+    100028: //RootNode
+    100030: o
+    100032: o 1
+    100034: o 2
+    100036: o 3
+    100038: stick
+    100040: Text
+    100042: "Uz\xE1v\u011Br_1"
+    100044: "Uz\xE1v\u011Br_1 1"
+    100046: "Uz\xE1v\u011Br_1 2"
+    100048: "Uz\xE1v\u011Br_1 3"
+    100050: "Uz\xE1v\u011Br_1 4"
+    100052: "Uz\xE1v\u011Br_1 5"
+    100054: "Uz\xE1v\u011Br_1 6"
+    100056: "Uz\xE1v\u011Br_1 7"
+    100058: "Uz\xE1v\u011Br_2"
+    100060: "Uz\xE1v\u011Br_2 1"
+    100062: "Uz\xE1v\u011Br_2 2"
+    100064: "Uz\xE1v\u011Br_2 3"
+    100066: "Uz\xE1v\u011Br_2 4"
+    100068: "Uz\xE1v\u011Br_2 5"
+    100070: "Uz\xE1v\u011Br_2 6"
+    100072: "Uz\xE1v\u011Br_2 7"
+    400000: _1
+    400002: _1 1
+    400004: base
+    400006: circle
+    400008: curve
+    400010: g
+    400012: g 1
+    400014: l
+    400016: l 1
+    400018: logo
+    400020: logo 1
+    400022: logoback
+    400024: logofront
+    400026: main
+    400028: //RootNode
+    400030: o
+    400032: o 1
+    400034: o 2
+    400036: o 3
+    400038: stick
+    400040: Text
+    400042: "Uz\xE1v\u011Br_1"
+    400044: "Uz\xE1v\u011Br_1 1"
+    400046: "Uz\xE1v\u011Br_1 2"
+    400048: "Uz\xE1v\u011Br_1 3"
+    400050: "Uz\xE1v\u011Br_1 4"
+    400052: "Uz\xE1v\u011Br_1 5"
+    400054: "Uz\xE1v\u011Br_1 6"
+    400056: "Uz\xE1v\u011Br_1 7"
+    400058: "Uz\xE1v\u011Br_2"
+    400060: "Uz\xE1v\u011Br_2 1"
+    400062: "Uz\xE1v\u011Br_2 2"
+    400064: "Uz\xE1v\u011Br_2 3"
+    400066: "Uz\xE1v\u011Br_2 4"
+    400068: "Uz\xE1v\u011Br_2 5"
+    400070: "Uz\xE1v\u011Br_2 6"
+    400072: "Uz\xE1v\u011Br_2 7"
+    2100000: No Name
+    2100002: Mat
+    2100004: Mat.1
+    2100006: Mat.2
+    2300000: base
+    2300002: circle
+    2300004: curve
+    2300006: g
+    2300008: g 1
+    2300010: l
+    2300012: l 1
+    2300014: main
+    2300016: o
+    2300018: o 1
+    2300020: o 2
+    2300022: o 3
+    2300024: stick
+    2300026: "Uz\xE1v\u011Br_1"
+    2300028: "Uz\xE1v\u011Br_1 1"
+    2300030: "Uz\xE1v\u011Br_1 2"
+    2300032: "Uz\xE1v\u011Br_1 3"
+    2300034: "Uz\xE1v\u011Br_1 4"
+    2300036: "Uz\xE1v\u011Br_1 5"
+    2300038: "Uz\xE1v\u011Br_1 6"
+    2300040: "Uz\xE1v\u011Br_1 7"
+    2300042: "Uz\xE1v\u011Br_2"
+    2300044: "Uz\xE1v\u011Br_2 1"
+    2300046: "Uz\xE1v\u011Br_2 2"
+    2300048: "Uz\xE1v\u011Br_2 3"
+    2300050: "Uz\xE1v\u011Br_2 4"
+    2300052: "Uz\xE1v\u011Br_2 5"
+    2300054: "Uz\xE1v\u011Br_2 6"
+    2300056: "Uz\xE1v\u011Br_2 7"
+    3300000: base
+    3300002: circle
+    3300004: curve
+    3300006: g
+    3300008: g 1
+    3300010: l
+    3300012: l 1
+    3300014: main
+    3300016: o
+    3300018: o 1
+    3300020: o 2
+    3300022: o 3
+    3300024: stick
+    3300026: "Uz\xE1v\u011Br_1"
+    3300028: "Uz\xE1v\u011Br_1 1"
+    3300030: "Uz\xE1v\u011Br_1 2"
+    3300032: "Uz\xE1v\u011Br_1 3"
+    3300034: "Uz\xE1v\u011Br_1 4"
+    3300036: "Uz\xE1v\u011Br_1 5"
+    3300038: "Uz\xE1v\u011Br_1 6"
+    3300040: "Uz\xE1v\u011Br_1 7"
+    3300042: "Uz\xE1v\u011Br_2"
+    3300044: "Uz\xE1v\u011Br_2 1"
+    3300046: "Uz\xE1v\u011Br_2 2"
+    3300048: "Uz\xE1v\u011Br_2 3"
+    3300050: "Uz\xE1v\u011Br_2 4"
+    3300052: "Uz\xE1v\u011Br_2 5"
+    3300054: "Uz\xE1v\u011Br_2 6"
+    3300056: "Uz\xE1v\u011Br_2 7"
+    4300000: l
+    4300002: "Uz\xE1v\u011Br_1"
+    4300004: "Uz\xE1v\u011Br_2"
+    4300006: o
+    4300008: "Uz\xE1v\u011Br_1"
+    4300010: "Uz\xE1v\u011Br_2"
+    4300012: g
+    4300014: "Uz\xE1v\u011Br_1"
+    4300016: "Uz\xE1v\u011Br_2"
+    4300018: o
+    4300020: "Uz\xE1v\u011Br_1"
+    4300022: "Uz\xE1v\u011Br_2"
+    4300024: l
+    4300026: "Uz\xE1v\u011Br_1"
+    4300028: "Uz\xE1v\u011Br_2"
+    4300030: o
+    4300032: "Uz\xE1v\u011Br_1"
+    4300034: "Uz\xE1v\u011Br_2"
+    4300036: g
+    4300038: "Uz\xE1v\u011Br_1"
+    4300040: "Uz\xE1v\u011Br_2"
+    4300042: o
+    4300044: "Uz\xE1v\u011Br_1"
+    4300046: "Uz\xE1v\u011Br_2"
+    4300048: circle
+    4300050: curve
+    4300052: main
+    4300054: stick
+    4300056: base
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
